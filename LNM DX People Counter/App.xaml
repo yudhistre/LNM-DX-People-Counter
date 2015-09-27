@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="LNM_DX_People_Counter.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LNM_DX_People_Counter"
+    RequestedTheme="Light">
+
+</Application>
